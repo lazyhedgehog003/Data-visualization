@@ -10,12 +10,14 @@ backend/ → Node.js + Express server
 1️⃣ Clone the Repository
 [git clone https://github.com/lazyhedgehog003/Data-visualization.git
 cd Data-visualization]
+
 2️⃣ Backend Setup
 [cd backend
 npm install
 npm install express axios cors cheerio puppeteer]
 Run the server: 
 [node server.js]
+
 3️⃣ Frontend Setup
 [cd ../frontend
 npm install
