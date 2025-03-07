@@ -7,6 +7,7 @@ This project consists of a frontend (Vite + React) and a backend (Node.js + Expr
 📂 Folder Structure
 
 frontend/ → Vite + React app for UI
+
 backend/ → Node.js + Express server
 
 🛠 Installation & Setup
