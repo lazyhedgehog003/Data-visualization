@@ -1,8 +1,11 @@
 📊 Data Visualization Project
+
 📌 Overview
+
 This project consists of a frontend (Vite + React) and a backend (Node.js + Express) for data visualization. The backend scrapes and fetches data using various libraries, while the frontend presents it interactively.
 
 📂 Folder Structure
+
 frontend/ → Vite + React app for UI
 backend/ → Node.js + Express server
 
