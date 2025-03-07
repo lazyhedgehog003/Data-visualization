@@ -7,6 +7,7 @@ frontend/ → Vite + React app for UI
 backend/ → Node.js + Express server
 
 🛠 Installation & Setup
+
 1️⃣ Clone the Repository
 [git clone https://github.com/lazyhedgehog003/Data-visualization.git
 cd Data-visualization]
